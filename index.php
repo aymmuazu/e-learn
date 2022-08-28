@@ -13,11 +13,11 @@
                 <?php
                     }else{
                 ?>
-                    <a class="btn btn-primary btn-lg" href="home.php">Student Login</a>
+                    <a class="btn btn-primary btn-lg" href="home.php">User Login</a>
                 <?php
                     }
                 ?>
-                <a class="btn btn-primary btn-lg" href="admin/home.php">Admin Login</a>
+                <a class="btn btn-primary btn-lg" href="admin">Admin Login</a>
             </div>
         </div>
     </div>
